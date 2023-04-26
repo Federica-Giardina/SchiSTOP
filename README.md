@@ -1,2 +1,0 @@
-# SchiSTOP
-SchiSTOP website
