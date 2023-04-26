@@ -1,8 +1,10 @@
 ---
-title: "SchiSTOP: expert panel meeting"
-author: ""
+title: 'SchiSTOP: expert panel meeting'
+author: ''
 date: "28/04/2023, 1 - 3 pm CEST"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
@@ -46,6 +48,6 @@ The meeting will be hosted on [Teams.](https://teams.microsoft.com/l/meetup-join
 
 
 ## Funding
-![](images/EU_logo_MSCA.png)
+![](images/EU_logo_MSCA.png){width=50%}
 
 This SchiSTOP project has received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement No 846873. For more information, please visit the European Commission's Community Research and Development Information Service (CORDIS) (https://cordis.europa.eu/project/id/846873).
