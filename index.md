@@ -3,7 +3,6 @@ title: 'SchiSTOP: expert panel meeting'
 author: ''
 date: "28/04/2023, 1 - 3 pm CEST"
 output:
-  pdf_document: default
   html_document: default
 ---
 
